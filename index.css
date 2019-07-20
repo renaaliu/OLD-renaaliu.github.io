@@ -16,13 +16,13 @@ html, body {
  
   font-family: 'Catamaran', sans-serif;
 
-  background-color: #ABD2FF;
+  background-color: #000000;
   overflow: hidden;
 }
 
 
 .wrapper {
-    color: #ABD2FF;
+    color: ##C2CCFF;
     text-align: center;
     position:fixed;
     top: 50%;
