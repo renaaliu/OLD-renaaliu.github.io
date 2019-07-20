@@ -15,12 +15,34 @@ html, body {
   padding: 0px;
  
   font-family: 'Catamaran', sans-serif;
+
+  background-color: #ABD2FF;
+  overflow: hidden;
 }
 
+
+.wrapper {
+    color: #ABD2FF;
+    text-align: center;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:70em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -35em; /*set to a negative number 1/2 of your width*/
+}
  
+#tagline {
+    font-style: italic;
+}
 .name {
   font-family: 'Crimson+Text', serif;
   margin-bottom: 2px;
+  
+  font-size: 3.5em;
+    font-weight: bold;
+    display: block;
 }
  
 .social-links {
@@ -43,7 +65,3 @@ html, body {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
- 
-.body {
-  background: linear-gradient(to bottom, rgba(63, 104 , 141, 1) 0%, rgba(78, 165, 165, 1) 100%);
-}
