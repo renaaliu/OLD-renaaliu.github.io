@@ -80,6 +80,13 @@ img {
     font-weight: bold;
     display: block;
 }
+
+.sectionHeads {
+      font-family: 'Crimson+Text', serif;
+  font-size: 2em;
+    font-weight: bold;
+    display: block;
+}
  
 .social-links {
     text-align: center;
