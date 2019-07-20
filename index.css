@@ -37,6 +37,7 @@ html, body {
 }
 
 .info {
+    margin: auto;
     text-align: center;
     
     position: fixed;
@@ -100,7 +101,7 @@ html, body {
  
 .social-links a:hover {
     text-align: center;
-    
+
   background-color: rgba(0, 0, 0, 0.1);
 }
 
