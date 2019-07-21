@@ -23,7 +23,7 @@
   .wrapper {
       margin: auto;
       width: 60%; 
-      left: 10%; /*centering*/
+      left: 22%; /*centering*/
 
       color: #212121;
       text-align: center;
@@ -53,6 +53,7 @@
     font-size: 3.5em;
     font-weight: bold;
     display: block;
+    padding: 10px; 
   }
 
 .bio {
