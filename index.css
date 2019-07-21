@@ -31,8 +31,8 @@ img {
     color: #C0E5F6;
     text-align: center;
     position:fixed;
-    top: 50%;
-    left: 50%;
+    top: 10%;
+    left: 30%;
 /*    width:70em;
     height:18em;
     margin-top: -9em; 
@@ -46,8 +46,8 @@ img {
     position: fixed;
     width:50%;
 
-    top: 70%;
-    left: 30%;
+    top: 100%;
+/*    left: 30%;*/
 
     /*height:18em;
     margin-top: -9em; 
@@ -58,12 +58,12 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+/*    width: 50%;*/
     top: 100%;
 
 /*    position:fixed;*/
-/*    width:200em;*/
-/*    height:18em;*/
+    width:500em;
+    height:100em;
 }
  
 #tagline {
@@ -89,7 +89,7 @@ img {
 }
  
 .social-links {
-    text-align: center;
+  text-align: center;
 
   list-style: none;
   padding-left: 0px;
