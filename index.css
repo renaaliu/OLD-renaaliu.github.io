@@ -20,8 +20,8 @@
 
   .wrapper {
       margin: auto;
-      width: 32%; /*centering*/
-      left: 32%; /*width?*/
+      width: 33%; /*centering*/
+      left: 33%; /*width?*/
 
       color: #000000;
       text-align: center;
@@ -85,14 +85,14 @@
   }
    
   .sectionLinks a {
-      text-align: center;
+    text-align: center;
 
     text-decoration: none;
     padding: 4px;
   }
    
   .sectionLinks a:hover {
-      text-align: center;
+    text-align: center;
 
     background-color: rgba(0, 0, 0, 0.1);
   }
@@ -114,20 +114,19 @@
   }
    
   .social-links a {
-      text-align: center;
-
+    text-align: center;
     text-decoration: none;
     padding: 4px;
   }
    
   .social-links a:hover {
-      text-align: center;
-
+    text-align: center;
     background-color: rgba(0, 0, 0, 0.1);
   }
 
 /* Add a black background color to the top navigation */
 .topnav {
+  top: 1%;
   background-color: #FFE9DB;
   overflow: hidden;
 }
@@ -135,22 +134,21 @@
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  color: #000000;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #FFE9DB;
-  color: black;
+  color: #000000;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #FFE9DB;
-  color: white;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
