@@ -159,6 +159,12 @@
   left: 33.3%;
 }
 
+#pixlee_container {
+  overflow: scroll;
+  width: 130%;
+  left: 33.3%;
+}
+
 .bold {
   font-weight: bold;
 }
