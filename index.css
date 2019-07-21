@@ -21,13 +21,13 @@
 
   .wrapper {
       margin: auto;
-      width: 34%; 
-      left: 34%; /*centering*/
+      width: 33.5%; 
+      left: 33.5%; /*centering*/
 
       color: #212121;
       text-align: center;
       position:fixed;
-      top: 15%;
+      top: 13%;
       overflow: auto;
   }
 
