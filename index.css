@@ -133,12 +133,13 @@
   font-family: 'Old+Standard+TT', serif;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  left: 33%;
+
   width: 100%; /* Full width */
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
+  left: 33%;
   float: left;
   text-align: center;
   padding: 20px 16px;
