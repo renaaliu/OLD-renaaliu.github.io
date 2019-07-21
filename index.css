@@ -20,7 +20,7 @@
 
   .wrapper {
       margin: auto;
-      width: 50%; /*centering*/
+      width: 32%; /*centering*/
       left: 32%; /*width?*/
 
       color: #000000;
@@ -28,26 +28,7 @@
       position:fixed;
       top: 7%;
       overflow: scroll;
-  /*    width:70em;
-      height:18em;
-      margin-top: -9em; 
-      margin-left: -35em; */
   }
-
-/*  .info {
-      margin: auto;
-      text-align: left;
-      
-      position: fixed;
-      width:40%;
-
-      top: 100%;
-  /*    left: 30%;*/
-
-      /*height:18em;
-      margin-top: -9em; 
-      margin-left: -35em; */
-  }*/
 
   .pixlee_container {
       display: block;
@@ -83,8 +64,8 @@
     text-align: center;
     color: #000000;
     font-size: 1.5em;
-      font-weight: bold;
-      display: block;
+    font-weight: bold;
+    display: block;
   }
 
   .sectionLinks {
@@ -145,12 +126,31 @@
     background-color: rgba(0, 0, 0, 0.1);
   }
 
-  .home {
-    text-align: left;
-    font-family: 'Old+Standard+TT', serif;
-    color: #000000;
-    list-style: none;
-    padding-left: 0px;
-    font-size: 18px;
-  }
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #FFE9DB;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FFE9DB;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #FFE9DB;
+  color: white;
+}
 
