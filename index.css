@@ -20,8 +20,8 @@
 
   .wrapper {
       margin: auto;
-      width: 70%;
-      left: 32%;
+      width: 32%; // centering
+      left: 50%; // width?
 
       color: #000000;
       text-align: center;
@@ -87,31 +87,33 @@
       display: block;
   }
 
-  .sectionHeads {
-      font-family: 'Old+Standard+TT', serif;
-      font-size: 2em;
-      color: #000000;
-      font-weight: bold;
-      display: block;
+  .sectionLinks {
+    text-align: center;
+    font-family: 'Old+Standard+TT', serif;
+    color: #000000;
+    list-style: none;
+    padding-left: 0px;
+    font-size: 18px;
   }
+   
+  .sectionLinks li {
+    text-align: center;
 
-  .sectionHeads a:hover {
-      text-align: center;
-      background-color: rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin-right: 8px;
   }
-
-  .sectionHeads a {
+   
+  .sectionLinks a {
       text-align: center;
+
     text-decoration: none;
     padding: 4px;
   }
+   
+  .sectionLinks a:hover {
+      text-align: center;
 
-  .tabHeads {
-    font-family: 'Old+Standard+TT', serif;
-    font-size: 1em;
-    color: #000000;
-    font-weight: bold;
-    display: block;
+    background-color: rgba(0, 0, 0, 0.1);
   }
    
   .social-links {
