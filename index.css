@@ -42,10 +42,6 @@
       width:600em;
       height:100em;
   }
-   
-  #tagline {
-      font-style: italic;
-  }
 
 .name {
     font-family: 'Old+Standard+TT', serif;
@@ -155,6 +151,11 @@
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: rgba(0, 0, 0, 0.1);
+}
+
+.photoFeed {
+  overflow: scroll;
+  width: 70%;
 }
 
 .courses {
