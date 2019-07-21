@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     height: 100%;
-    width: 70%;
+/*    width: 60%;*/
     margin: 0px;
     padding: 0px;
    
@@ -21,7 +21,7 @@
 
   .wrapper {
       margin: auto;
-      width: 70%; 
+      width: 60%; 
       left: 34%; /*centering*/
 
       color: #000000;
