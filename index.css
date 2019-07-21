@@ -26,13 +26,12 @@
 
   .wrapper {
       margin: auto;
-      width: 35%;
+      width: 32%;
 
       color: #000000;
       text-align: center;
       position:fixed;
       top: 7%;
-      left: 30%;
       overflow: scroll;
   /*    width:70em;
       height:18em;
@@ -72,7 +71,7 @@
   }
 
 .name {
-    font-family: 'Crimson+Text', serif;
+    font-family: 'Merriweather', serif;
     margin-bottom: 2px;
 
     text-align: center;
@@ -83,7 +82,7 @@
   }
 
 .bio {
-    font-family: 'Crimson+Text', serif;
+    font-family: 'Merriweather', serif;
     margin-bottom: 2px;
 
     text-align: center;
@@ -94,7 +93,7 @@
   }
 
   .sectionHeads {
-      font-family: 'Crimson+Text', serif;
+      font-family: 'Merriweather', serif;
       font-size: 2em;
       color: #000000;
       font-weight: bold;
@@ -113,7 +112,7 @@
   }
 
   .tabHeads {
-    font-family: 'Crimson+Text', serif;
+    font-family: 'Merriweather', serif;
     font-size: 1em;
     color: #000000;
     font-weight: bold;
