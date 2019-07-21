@@ -8,11 +8,12 @@
 /*    width: 60%;*/
     margin: 0px;
     padding: 0px;
+    line-height: 120%;
    
     font-family: 'Catamaran', sans-serif;
 
     background-color: #cee8f5;
-    overflow: auto;
+    overflow: visible;
   }
 
   img {
@@ -22,13 +23,13 @@
   .wrapper {
       margin: auto;
       width: 60%; 
-      left: 33.3%; /*centering*/
+      left: 20%; /*centering*/
 
       color: #212121;
       text-align: center;
       position:fixed;
       top: 13%;
-      overflow: auto;
+      overflow: visible;
   }
 
   .pixlee_container {
@@ -171,7 +172,7 @@
 
 .courses {
   text-align: left;
-  line-height: 150%;
+  line-height: 120%;
 }
 
 .courseHeader {
