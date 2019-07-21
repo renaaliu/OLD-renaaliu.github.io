@@ -11,7 +11,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #C0E5F6;
-    overflow: scroll;
+    overflow: auto;
   }
 
   img {
@@ -20,14 +20,14 @@
 
   .wrapper {
       margin: auto;
-      width: 32%; // centering
-      left: 50%; // width?
+      width: 32%; /*centering*/
+      left: 50%; /*width?*/
 
       color: #000000;
       text-align: center;
       position:fixed;
       top: 7%;
-      overflow: scroll;
+      overflow: auto;
   /*    width:70em;
       height:18em;
       margin-top: -9em; 
@@ -143,5 +143,14 @@
       text-align: center;
 
     background-color: rgba(0, 0, 0, 0.1);
+  }
+
+  .home {
+    text-align: left;
+    font-family: 'Old+Standard+TT', serif;
+    color: #000000;
+    list-style: none;
+    padding-left: 0px;
+    font-size: 18px;
   }
 
