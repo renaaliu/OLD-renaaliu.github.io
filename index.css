@@ -155,7 +155,8 @@
 
 .photoFeed {
   overflow: scroll;
-  width: 70%;
+  width: 130%;
+  left: 33.3%;
 }
 
 .bold {
