@@ -11,7 +11,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #C0E5F6;
-    overflow: scroll;
+    overflow: auto;
   }
 
   img {
@@ -27,7 +27,7 @@
       text-align: center;
       position:fixed;
       top: 7%;
-      overflow: scroll;
+      overflow: auto;
   }
 
   .pixlee_container {
@@ -53,8 +53,8 @@
     text-align: center;
     color: #000000;
     font-size: 3.5em;
-      font-weight: bold;
-      display: block;
+    font-weight: bold;
+    display: block;
   }
 
 .bio {
