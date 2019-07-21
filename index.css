@@ -5,6 +5,7 @@
     align-items: center;
     justify-content: center;
     height: 100%;
+    width: 50%;
     margin: 0px;
     padding: 0px;
    
@@ -132,6 +133,7 @@
   font-family: 'Old+Standard+TT', serif;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
+  left: 33%;
   width: 100%; /* Full width */
 }
 
