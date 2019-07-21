@@ -21,7 +21,7 @@
 
   .wrapper {
       margin: auto;
-      width: 33.3%; 
+      width: 60%; 
       left: 33.3%; /*centering*/
 
       color: #212121;
@@ -155,15 +155,15 @@
 
 .photoFeed {
   overflow: scroll;
-  width: 130%;
+  width: 90%;
   left: 33.3%;
 }
 
-#pixlee_container {
+/*#pixlee_container {
   overflow: scroll;
   width: 130%;
   left: 33.3%;
-}
+}*/
 
 .bold {
   font-weight: bold;
