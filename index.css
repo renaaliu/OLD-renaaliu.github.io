@@ -21,8 +21,8 @@
 
   .wrapper {
       margin: auto;
-      width: 33.5%; 
-      left: 33.5%; /*centering*/
+      width: 33.3%; 
+      left: 33.3%; /*centering*/
 
       color: #212121;
       text-align: center;
@@ -133,13 +133,11 @@
   font-family: 'Old+Standard+TT', serif;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-
   width: 100%; /* Full width */
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  left: 33%;
   float: left;
   text-align: center;
   padding: 20px 16px;
@@ -159,3 +157,6 @@
   background-color: rgba(0, 0, 0, 0.1);
 }
 
+.courses {
+  text-align: left;
+}
