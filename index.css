@@ -1,10 +1,4 @@
-  /*<head>
-    <title>Rena Liu</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    https://fonts.google.com/specimen/Crimson+Text?selection.family=Crimson+Text
-    https://fonts.google.com/specimen/Catamaran?selection.family=Catamaran
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
-  </head>*/
+/*Playfair+Display|Source+Sans+Pro*/
 
   html, body {
     display: flex;
@@ -14,7 +8,7 @@
     margin: 0px;
     padding: 0px;
    
-    font-family: 'Catamaran', sans-serif;
+    font-family: 'Source+Sans+Pro', sans-serif;
 
     background-color: #C0E5F6;
     overflow: scroll;
@@ -26,7 +20,8 @@
 
   .wrapper {
       margin: auto;
-      width: 32%;
+      width: 70%;
+      left: 50%;
 
       color: #000000;
       text-align: center;
@@ -71,7 +66,7 @@
   }
 
 .name {
-    font-family: 'Merriweather', serif;
+    font-family: 'Playfair+Display', serif;
     margin-bottom: 2px;
 
     text-align: center;
@@ -82,7 +77,7 @@
   }
 
 .bio {
-    font-family: 'Merriweather', serif;
+    font-family: 'Playfair+Display', serif;
     margin-bottom: 2px;
 
     text-align: center;
@@ -93,7 +88,7 @@
   }
 
   .sectionHeads {
-      font-family: 'Merriweather', serif;
+      font-family: 'Playfair+Display', serif;
       font-size: 2em;
       color: #000000;
       font-weight: bold;
@@ -112,7 +107,7 @@
   }
 
   .tabHeads {
-    font-family: 'Merriweather', serif;
+    font-family: 'Playfair+Display', serif;
     font-size: 1em;
     color: #000000;
     font-weight: bold;
