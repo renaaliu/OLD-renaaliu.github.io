@@ -26,13 +26,13 @@
 
   .wrapper {
       margin: auto;
-      width: 60%;
+      width: 40%;
 
       color: #000000;
       text-align: center;
       position:fixed;
       top: 10%;
-      left: 60%;
+      left: 40%;
   /*    width:70em;
       height:18em;
       margin-top: -9em; 
@@ -44,7 +44,7 @@
       text-align: left;
       
       position: fixed;
-      width:50%;
+      width:40%;
 
       top: 100%;
   /*    left: 30%;*/
@@ -105,13 +105,14 @@
   .social-links {
     text-align: center;
 
+    color: #000000;
     list-style: none;
     padding-left: 0px;
     font-size: 18px;
   }
    
   .social-links li {
-      text-align: center;
+    text-align: center;
 
     display: inline-block;
     margin-right: 8px;
