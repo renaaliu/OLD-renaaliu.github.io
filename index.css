@@ -17,7 +17,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #C0E5F6;
-    overflow: hidden;
+    overflow: scroll;
   }
 
   img {
@@ -26,20 +26,21 @@
 
   .wrapper {
       margin: auto;
-      width: 40%;
+      width: 30%;
 
       color: #000000;
       text-align: center;
       position:fixed;
       top: 10%;
-      left: 40%;
+      left: 30%;
+      overflow: scroll
   /*    width:70em;
       height:18em;
       margin-top: -9em; 
       margin-left: -35em; */
   }
 
-  .info {
+/*  .info {
       margin: auto;
       text-align: left;
       
@@ -52,7 +53,7 @@
       /*height:18em;
       margin-top: -9em; 
       margin-left: -35em; */
-  }
+  }*/
 
   .pixlee_container {
       display: block;
