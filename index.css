@@ -166,3 +166,8 @@
   text-align: left;
   line-height: 150%;
 }
+
+.courseHeader {
+  font-family: 'Old+Standard+TT', serif
+  font-weight: bold;
+}
