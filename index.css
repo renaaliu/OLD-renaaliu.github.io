@@ -16,7 +16,7 @@ html, body {
  
   font-family: 'Catamaran', sans-serif;
 
-  background-color: #B1F5F5;
+  background-color: #C0E5F6;
   overflow: hidden;
 }
 
@@ -28,11 +28,11 @@ img {
     margin: auto;
     width: 50%;
 
-    color: #C0E5F6;
+    color: #000000;
     text-align: center;
     position:fixed;
     top: 10%;
-    left: 30%;
+    left: 50%;
 /*    width:70em;
     height:18em;
     margin-top: -9em; 
@@ -86,6 +86,11 @@ img {
   font-size: 2em;
     font-weight: bold;
     display: block;
+}
+
+.sectionHeads a:hover {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.1);
 }
  
 .social-links {
