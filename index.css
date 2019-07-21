@@ -11,7 +11,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #C0E5F6;
-    overflow: auto;
+    overflow: scroll;
   }
 
   img {
@@ -20,14 +20,14 @@
 
   .wrapper {
       margin: auto;
-      width: 32%; /*centering*/
-      left: 50%; /*width?*/
+      width: 50%; /*centering*/
+      left: 32%; /*width?*/
 
       color: #000000;
       text-align: center;
       position:fixed;
       top: 7%;
-      overflow: auto;
+      overflow: scroll;
   /*    width:70em;
       height:18em;
       margin-top: -9em; 
