@@ -1,5 +1,9 @@
 /*Playfair+Display|Source+Sans+Pro*/
 
+entire {
+  overflow y: scroll;
+}
+
   html, body {
     display: flex;
     align-items: center;
