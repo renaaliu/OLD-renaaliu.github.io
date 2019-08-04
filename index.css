@@ -13,7 +13,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #cee8f5;
-    overflow: scroll;
+    overflow y: scroll;
   }
 
   img {
