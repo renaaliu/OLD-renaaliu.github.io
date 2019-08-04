@@ -13,7 +13,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #cee8f5;
-    overflow: visible;
+    overflow: scroll;
   }
 
   img {
@@ -29,7 +29,7 @@
       text-align: center;
       position:fixed;
       top: 13%;
-      overflow: visible;
+      overflow y: none;
   }
 
   .pixlee_container {
