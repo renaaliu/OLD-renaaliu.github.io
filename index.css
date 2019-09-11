@@ -1,5 +1,9 @@
 /*Playfair+Display|Source+Sans+Pro*/
 
+entire {
+  overflow y: scroll;
+}
+
   html, body {
     display: flex;
     align-items: center;
@@ -13,7 +17,7 @@
     font-family: 'Catamaran', sans-serif;
 
     background-color: #cee8f5;
-    overflow: visible;
+    overflow y: scroll;
   }
 
   img {
@@ -29,7 +33,7 @@
       text-align: center;
       position:fixed;
       top: 13%;
-      overflow: visible;
+      overflow y: none;
   }
 
   .pixlee_container {
