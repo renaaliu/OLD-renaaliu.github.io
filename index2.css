@@ -22,10 +22,11 @@ entire {
   }
 
   img {
-      display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    top: 40%;
   }
 
   .wrapper {
@@ -68,7 +69,7 @@ entire {
     font-family: 'Old+Standard+TT', serif;
     margin-bottom: 1.5px;
 
-    text-align: center;
+    /*text-align: center;*/
     color: #212121;
     font-size: 1.5em;
     font-weight: bold;
