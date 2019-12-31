@@ -25,6 +25,12 @@ entire {
     border-radius: 50%;
   }
 
+  .wrapperExtra {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .wrapper {
       margin: auto;
       width: 60%; 
